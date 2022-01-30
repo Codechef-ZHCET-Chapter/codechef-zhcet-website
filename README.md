@@ -2,7 +2,7 @@
 
 ![CODECHEF ZHCET CHAPTER](https://user-images.githubusercontent.com/96831851/151702117-fe4fe4fb-635f-40a3-ac37-a0dcf089d7cb.png)
 
-<p align="center"> <samp>_**We are a thriving community of budding programmers from Zakir Husain College of Engineering and Technology, mentored by CodeChef to make competitive programming accessible to all students.**_ 
+<p align="center"> <samp>_**We are a thriving community of budding programmers from Zakir Husain College of Engineering and Technology, mentored by CodeChef to make competitive programming accessible to all students.**
 
   ## Our Mission 🎯  <br>
 The main objective of the Codechef ZHCET Chapter is to promote a competitive programming culture that will help students become better problem solvers. We offer students several opportunities to explore their interests, imagine and realize possibilities while working and socializing with their peers. 
