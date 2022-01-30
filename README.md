@@ -9,10 +9,10 @@
 The main objective of the Codechef ZHCET Chapter is to promote a competitive programming culture that will help students become better problem solvers. We offer students several opportunities to explore their interests, imagine and realize possibilities while working and socializing with their peers. 
   
   ## What we do? ⚙️  <br>
-  We organize,__ 
-👨‍**💻Coding Contests__
-📺Webinars__
-🌐Networking Events__
-👨‍🔧Workshops**__
+  We organize, <br />
+👨‍**💻Coding Contests  <br />
+📺Webinars  <br />
+🌐Networking Events  <br />
+👨‍🔧Workshops**  <br />
 _And a plethora of other exciting activities._
   
