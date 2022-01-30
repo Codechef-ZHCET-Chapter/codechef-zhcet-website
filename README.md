@@ -1,3 +1,5 @@
-# THE OFFICIAL WEBSITE of
-![CODECHEF ZHCET CHAPTER](https://user-images.githubusercontent.com/96831851/151701498-7c0417ee-3c3f-49a1-8b60-e61c3fbe1bcd.png)
+<h2 align="center"> This is the official website of 👋 <br/> </h2> 
+![CODECHEF ZHCET CHAPTER](https://user-images.githubusercontent.com/96831851/151701918-13324593-f729-49da-8950-93261ae398c4.png)
+
+<p align="center"> <samp>Codechef ZHCET Chapter is a thriving community of budding programmers from Zakir Husain College of Engineering and Technology, mentored by CodeChef to make competitive programming accessible to all students.  
 
