@@ -1,4 +1,4 @@
-<h2 align="center"> 🔗 This is the official website of 🔗 <br/> </h2> 
+<h2 align="center">❇️ This is the official website of ❇️ <br/> </h2> 
 
 ![CODECHEF ZHCET CHAPTER](https://user-images.githubusercontent.com/96831851/151702117-fe4fe4fb-635f-40a3-ac37-a0dcf089d7cb.png)
 
@@ -16,5 +16,6 @@ The main objective of the Codechef ZHCET Chapter is to promote a competitive pro
 👨‍🔧Workshops**  <br />
 _And a plethora of other exciting activities._
   
-  ##[Our Website:] (https://codechefzhcetchapter.tech)
+  ##Our Website: 🔗 <br>
+  [Click here](https://codechefzhcetchapter.tech)
   
